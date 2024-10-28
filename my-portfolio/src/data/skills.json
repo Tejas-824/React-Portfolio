@@ -1,0 +1,34 @@
+[
+    {
+        "title": "JAVA",
+        "imageSrc": "java.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css.png"
+    },
+    {
+        "title": "JAVACSIPT",
+        "imageSrc": "javascript.png"
+    },
+    {
+        "title": "REACT",
+        "imageSrc": "react.png"
+    },
+    {
+        "title": "FIGMA",
+        "imageSrc": "figma.png"
+    },
+    {
+        "title": "Node.js",
+        "imageSrc": "nodejs.png"
+    },
+    {
+        "title": "GITHUB",
+        "imageSrc": "github.png"
+    }
+]

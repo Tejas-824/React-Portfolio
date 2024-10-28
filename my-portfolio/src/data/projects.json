@@ -1,0 +1,18 @@
+[
+    {
+        "title": "PhotoGraphy Website",
+        "imageSrc": "projectwork.png",
+        "description": "I created this photography website to showcase my work as a photographer. The website features a responsive layout, allowing users to easily navigate through various sections that display works.",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "preview": "https://tejas-824.github.io/Photography-Website/",
+        "code": "https://github.com/Tejas-824/Photography-Website.git"
+    },
+    {
+        "title": "Netflix",
+        "imageSrc": "projectwork.png",
+        "description": "A Netflix homepage clone built by me. The project replicates the core design and layout of Netflix, with a fully responsive interface and clean design.",
+        "skills": ["HTML", "CSS"],
+        "preview": "https://tejas-824.github.io/Netflix/",
+        "code": "https://github.com/Tejas-824/Netflix"
+    }
+]
