@@ -15,16 +15,8 @@ A modern and responsive personal portfolio website built using React. This proje
 - **Vite**: For faster builds and an efficient development environment.
 - **HTML & CSS**: To style and structure content.
 
-## Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-Navigate to the project directory:
-cd my-portfolio
 
-Run the application:
-npm run dev
+Thanks for visiting my portfolio! 😊 Feel free to explore, and don’t hesitate to reach out with any feedback or collaboration ideas.
 
-The portfolio should now be running on http://localhost:3000.
-
+Happy coding! ✌️
